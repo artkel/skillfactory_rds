@@ -37,9 +37,9 @@ Based on this score, a bank employee can make an educated decision, whether to i
 * **default** - credit default indicator
 
 ### Table of content
-0. [General information](#intro)
-1. [Prepare problem](#prepare)
-2. [Analize data](#analize)
-3. [Prepare data](#data)
-4. [Modelling](#modelling)
-5. [Submission](#submission)
+0. General information
+1. Prepare problem
+2. Analize data
+3. Prepare data
+4. Modelling
+5. Submission
