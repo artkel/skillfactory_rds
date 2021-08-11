@@ -2,7 +2,7 @@
 
 ### Short Description
 The aim of this small project is to get familiar with the basics of *ML model deployment* via a micro web framework **Flask** and a cloud PaaS **Heroku**.
-I used the [Hitters Baseball Data](https://www.kaggle.com/mathchi/hitters-baseball-data) to train a model, which aim is to predict an annual baseball player's salary using his game performance statistics and years spent in league. For the sake of simplicity and computation speed, I trained simple, easy-to-interpret algorithms for this project. These are Multiple Linear Regression, Decision Tree Regression & Support Vector Regressor.
+I used the [Hitters Baseball Data](https://www.kaggle.com/mathchi/hitters-baseball-data) to train a model, which aim is to predict an annual baseball player's salary using his game performance statistics and years spent in league. For the sake of simplicity and computation speed, I trained simple, easy-to-interpret algorithms for this project. These are Multiple Linear Regression, Decision Tree Regression & k-neighbors Regressor.
 
 ### Project Workflow:
 * Problem preparation
