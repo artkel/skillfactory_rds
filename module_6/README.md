@@ -1,4 +1,4 @@
-# Auto Price Pridiction - Data Parsing & Regression Model
+# Auto Price Prediction - Data Parsing & Regression Model
 
 ## GENERAL INFORMATION
 
