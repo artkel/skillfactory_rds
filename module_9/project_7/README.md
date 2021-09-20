@@ -1,4 +1,4 @@
-# Auto Price Prediction (part 2) - Combining ML & DL methods
+# Car Price Prediction (part 2) - Combining ML & DL methods
 
 This project is a continuation of [my previous project](https://github.com/artkel/skillfactory_rds/tree/main/module_6), in which I trained a machine learning model to predict used cars' prices based on their characteristics (manufacturer, brand, engine power, body type, fuel type, etc.) using data collected on the Internet.
 
