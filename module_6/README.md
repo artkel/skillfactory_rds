@@ -1,4 +1,4 @@
-# Auto Price Prediction - Data Parsing & Regression Model
+# Car Price Prediction - Data Parsing & Regression Model
 
 ## GENERAL INFORMATION
 
