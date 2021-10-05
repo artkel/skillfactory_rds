@@ -6,7 +6,7 @@
 
 This is the final project after the sixth unit of the Data Science PRO course on the SkillFactory educational online platform. The project is also a part of the [Kaggle competition](https://www.kaggle.com/c/sf-dst-car-price-prediction/overview).
 
-Goal of the project: using a regression machine learning algorithm to predict prices of used cars based on their characteristics, such as mileage, engine power and displacement, body type and color, number of owners, etc.
+Goal of the project: prepare a regression machine learning algorithm to predict prices of used cars based on their characteristics, such as mileage, engine power and displacement, body type and color, number of owners, etc.
 
 In practice, such solutions are used, for example, to quickly estimate the cost of a used car by a buyer or to detect anomalies, i.e. when the price of the offered car significantly differs from the price offered by the algorithm, which indicates a possibly stolen or damaged vehicle.
 
