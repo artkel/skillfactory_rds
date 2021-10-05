@@ -10,7 +10,7 @@ Goal of the project: using a regression machine learning algorithm to predict pr
 
 In practice, such solutions are used, for example, to quickly estimate the cost of a used car by a buyer or to detect anomalies, i.e. when the price of the offered car significantly differs from the price offered by the algorithm, which indicates a possibly stolen or damaged vehicle.
 
-Some new challenges I faced during the project:
+Some of new challenges I faced during the project:
 * [data web scraping](https://github.com/artkel/skillfactory_rds/blob/main/module_6/Parsing.ipynb) for training set using the BeautifulSoup library
 * using clustering for feature engineering
 * using target encoding with smoothing to encode categorical variables
